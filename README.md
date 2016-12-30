@@ -7,9 +7,6 @@ Now you can store your **Contacts** easier than ever using this CLI based Contac
 - **[Features](#features)**
 - **[Installation](#installation)**
 - **[Usage](#usage)**
-	- **[Account](#account)**
-		- **[Create](#create)**
-		- **[Login](#login)**
 	- **[Help](#help)**
 	- **[Add](#add)**
 	- **[Remove](#remove)**
@@ -46,17 +43,6 @@ After installation is complete the application should now be accessible from any
 ## Usage
 
 If you chose to install the program, you can start it by running `contacts`. If you did not do this, you can start it by running `make`
-
-
-### Account
-	
-In order to manage your Contacts, you first need to authenticate yourself. To do so, you will either have to create a new user, or login with an existing user.
-
-#### Create
-
-
-#### Login
-
 
 ### Help
 
