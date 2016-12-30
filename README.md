@@ -4,23 +4,15 @@ Now you can store your **Contacts** easier than ever using this CLI based Contac
 
 ## Table of Contents
 
-**[Features](#features)**
-
-**[Installation](#installation)**
-
-**[Usage](#usage)**
-
-	**[Help](#help)**
-
-	**[Add](#add)**
-
-	**[Remove](#remove)**
-
-	**[List](#list)**
-
-	**[Search](#search)**
-	
-**[TODO](#todo)**
+- **[Features](#features)**
+- **[Installation](#installation)**
+- **[Usage](#usage)**
+	- **[Help](#help)**
+	- **[Add](#add)**
+	- **[Remove](#remove)**
+	- **[List](#list)**
+	- **[Search](#search)**
+- **[TODO](#todo)**
 
 ## Features
 
