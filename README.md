@@ -7,6 +7,9 @@ Now you can store your **Contacts** easier than ever using this CLI based Contac
 - **[Features](#features)**
 - **[Installation](#installation)**
 - **[Usage](#usage)**
+	- **[Account](#account)**
+		- **[Create](#create)**
+		- **[Login](#login)**
 	- **[Help](#help)**
 	- **[Add](#add)**
 	- **[Remove](#remove)**
