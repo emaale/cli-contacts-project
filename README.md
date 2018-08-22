@@ -34,11 +34,9 @@ make install
 
 Note: Upon running the command you will be prompted for your system password.
 
-
 This will install the executable to `/usr/local/bin`
 
 After installation is complete the application should now be accessible from any directory.
-
 
 ## Usage
 
